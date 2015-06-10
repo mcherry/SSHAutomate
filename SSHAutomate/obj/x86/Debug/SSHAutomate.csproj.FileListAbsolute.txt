@@ -1,0 +1,11 @@
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.frmMain.resources
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.Properties.Resources.resources
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.csproj.GenerateResource.Cache
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\bin\Debug\SSHAutomate.exe
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\bin\Debug\SSHAutomate.pdb
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.exe
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.pdb
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\bin\Debug\Renci.SshNet.dll
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.csprojResolveAssemblyReference.cache
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.frmLog.resources
+C:\Temp\Projects\SSHAutomate\SSHAutomate\SSHAutomate\obj\x86\Debug\SSHAutomate.frmAbout.resources

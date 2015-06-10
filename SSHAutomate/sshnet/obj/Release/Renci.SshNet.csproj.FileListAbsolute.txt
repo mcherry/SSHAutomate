@@ -1,0 +1,3 @@
+C:\Temp\sshnet\bin\Release\Renci.SshNet.xml
+C:\Temp\sshnet\bin\Release\Renci.SshNet.dll
+C:\Temp\sshnet\obj\Release\Renci.SshNet.dll
